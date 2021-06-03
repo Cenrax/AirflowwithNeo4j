@@ -1,0 +1,15 @@
+{
+    "user_id": "",
+    "usage_date": "",
+    "device":{
+        "os":"",
+        "brand":""
+    },
+    "usages": [
+        {
+            "app_name":"",
+            "minutes_used":"",
+            "app_category":""
+        }
+    ]
+}
