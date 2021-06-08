@@ -1,6 +1,6 @@
 ## Airflow Setup
 
-- Control Panel | Programs and Features | Turn Windows features on or off
+- Control Panel | Programs and Features | Turn Windows features on or off.
 - Enable : Windows Subsystem for Linux
 - Install ubuntu from microsoft play store and restart system
 - Then in mobaxterm open windows wsl and run sudo apt-get install software-properties-common sudo apt-add-repository universe sudo apt-get update sudo apt-get install python-pip
